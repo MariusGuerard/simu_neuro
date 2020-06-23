@@ -3,7 +3,7 @@
 ![](example_image/neuron.png)
 
 This code can be used to simulate multiple population of in-vitro neurons.
-It demonstrates interesting properties of these system, as the burst that correspond to an activation of the entire neuronal population.
+It demonstrates interesting properties of these systems, as the bursts that correspond to an activation of the entire neuronal population.
 
 ![](example_image/scatter.png)
 
